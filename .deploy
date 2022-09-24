@@ -1,0 +1,7 @@
+STACK_NAME=stockhooPortfolio
+
+PARAMETERS="PARAMS"
+
+BUCKET_NAME=teaterstockbucket
+
+TAGS=TAGSNSMAE

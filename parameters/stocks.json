@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey": "apiRelease",
+        "ParameterValue": "1.0.4"
+    },
+    {
+        "ParameterKey": "deploybucket",
+        "ParameterValue": "teaterstockbucket"
+    }
+]
